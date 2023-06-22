@@ -3,7 +3,7 @@
 /**
  * print_numbers - print 0 - 9 only using _putchar twice
  *
- * Return: Always 0 (success)
+ * Return: the numbers since 0 up to 9
 */
 
 void print_numbers(void)
