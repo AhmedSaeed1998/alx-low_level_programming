@@ -5,7 +5,7 @@
  *
  * Description: Programming is like building a multilingual puzzle
  *
- * return: 0 (success)
+ * return: Always  0 (success)
 */
 
 
