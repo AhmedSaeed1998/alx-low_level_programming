@@ -7,7 +7,7 @@
  * @n: input
  *  Return: the poiter to dest
 */
-char *_memcpy(char *dest, char *src, insugned int n)
+char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int i;
 

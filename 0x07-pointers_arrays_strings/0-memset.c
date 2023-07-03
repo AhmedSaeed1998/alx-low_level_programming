@@ -1,4 +1,4 @@
-#include "mian.h"
+#include "main.h"
 
 /**
  * _memset - fills memory with a constant byte
@@ -8,9 +8,9 @@
  * Return: pointer s
 */
 
-char *_memset(char *s, char b, unsigned it n)
+char *_memset(char *s, char b, unsigned int n)
 {
-	unsigned int utr;
+	unsigned int itr;
 
 	for (itr = 0; n > 0; itr++, n--)
 	{
