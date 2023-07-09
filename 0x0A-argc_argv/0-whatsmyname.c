@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * main - prints its name
+ * main - print file name and nooneed to re-compile
  * @argc: argument count
  * @argv: Argument vector
- * Return : always zero
+ * Return: always 0 (success)
 */
 int main(int argc, char *argv[])
 {
