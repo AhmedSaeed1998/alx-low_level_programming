@@ -5,7 +5,7 @@
  * @d: the dog to init
  * @name: the dog's name
  * @age: dog's age
- * @onwer: owner's name
+ * @owner: owner's name
  *
  * Return: void
 */
